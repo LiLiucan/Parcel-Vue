@@ -1,0 +1,7 @@
+node_modules/
+dist/
+output
+yarn-error.log
+npm-debug.log
+.cache/
+.vscode/
